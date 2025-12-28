@@ -1,0 +1,7 @@
+To run:
+1. Download the .class files in the code folder
+2. If you can run Java files in the Terminal then go to Terminal and type java Main Entity
+(Currently I don't exactly know how to run without needing to type both file names in the Terminal, but I might try to fix this for future programs)
+
+To play:
+It's just arrow keys to move and avoid the bouncing pixels
